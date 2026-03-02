@@ -10,3 +10,13 @@
 
 
 // Array, * Objects, Functions
+
+
+
+
+// ++++++++++++++++++++++++Memory++++++++++++++++++++++++++
+
+// Stack(Primitive)(copy), Heap(Non-Primitive)(reference)
+
+
+let myYoutubeName= "NeelamMore"
