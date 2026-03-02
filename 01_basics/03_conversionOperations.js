@@ -14,3 +14,11 @@ console.log(typeof valueInNumber)
 // true => 1; false => 0
 // ""=> false
 // "hitesh" => true
+
+
+
+
+
+
+// ******************* Operations **********************
+
